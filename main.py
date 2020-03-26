@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#hola pex
 # Implementación de los tableros semánticos (tableaux)
 # Input: cadena de la formula en notacion inorder
 # Output: lista de listas de literales
